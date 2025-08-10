@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gaganmakhija9045@gmail.com**
 
-- ⚡ Fun fact **Endless Learning: Coding is a field that constantly evolves. There is always something new to learn, which can be exciting and intellectually stimulating. It means you'll never run out of opportunities to grow and challenge yourself 🚀**
+- ⚡ Fun fact **A data analyst spends about 80% of their time cleaning and preparing data—because messy data is like a bad joke: if you have to explain it too much, it’s not going to work. 📊✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
