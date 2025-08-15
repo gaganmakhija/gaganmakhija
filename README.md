@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL,Excel,Python,Gen-AI,Power_BI**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **gaganmakhija9045@gmail.com**
 
